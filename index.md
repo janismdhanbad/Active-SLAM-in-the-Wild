@@ -2,15 +2,8 @@
 layout: default
 ---
 
----
-layout: default
----
-
 <center>
 
-<p><em>
-We present Active SLAM in the Wild that focuses on using combination of SLAM and Motion planning methods to make an agent take decisons based on the changing environment.
-</em></p>
 
 <a href="https://github.com/zhluk/Active-SLAM-in-the-Wild" class="btn">Code</a>
 <!-- <a href="https://arxiv.org/abs/2112.03221" class="btn">Paper</a> -->
